@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/dvf/blockchain.svg?branch=master)](https://travis-ci.org/dvf/blockchain)
 
 This is the source code for my post on [Building a Blockchain](https://medium.com/p/117428612f46). 
+https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 
 ## Installation
 
